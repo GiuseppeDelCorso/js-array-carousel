@@ -21,6 +21,6 @@
     left: 917px;
     top: 30px;
 }
-.active{
+#container img.active{
     display: block;
 }
